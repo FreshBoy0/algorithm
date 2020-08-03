@@ -9,7 +9,24 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
+    <content url="file://$MODULE_DIR$/../swordPoint2Offer_2/src/main/java">
+      <sourceFolder url="file://$MODULE_DIR$/../swordPoint2Offer_2/src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../swordPoint2Offer_2/src/main/resources">
+      <sourceFolder url="file://$MODULE_DIR$/../swordPoint2Offer_2/src/main/resources" type="java-resource" />
+    </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.google.collections:google-collections:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.9" level="project" />
+    <orderEntry type="library" name="Maven: com.lmax:disruptor:3.2.0" level="project" />
+    <orderEntry type="library" name="Maven: cglib:cglib:3.2.12" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm:7.1" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.44.Final" level="project" />
+    <orderEntry type="library" name="Maven: net.sourceforge.jexcelapi:jxl:2.6.12" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.14" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.0" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.47" level="project" />
   </component>
 </module>

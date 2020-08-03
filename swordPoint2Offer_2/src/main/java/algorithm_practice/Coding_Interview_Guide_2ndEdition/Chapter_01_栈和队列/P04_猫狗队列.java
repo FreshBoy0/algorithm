@@ -1,8 +1,8 @@
 package algorithm_practice.Coding_Interview_Guide_2ndEdition.Chapter_01_栈和队列;
 
+import jdk.nashorn.internal.objects.annotations.Getter;
 import junit.framework.TestCase;
 import lombok.AllArgsConstructor;
-import lombok.Getter;
 import org.junit.Test;
 
 import java.util.LinkedList;
@@ -24,10 +24,17 @@ import java.util.Queue;
  */
 public class P04_猫狗队列 extends TestCase {
 
-    @Getter
     @AllArgsConstructor
     public class Pet {
         private String type;
+
+        public String getType() {
+            return type;
+        }
+
+        public void setType(String type) {
+            this.type = type;
+        }
     }
 
     public class Dog extends Pet {
@@ -47,7 +54,6 @@ public class P04_猫狗队列 extends TestCase {
 
     }
 
-    @Getter
     @AllArgsConstructor
     class PetEnterQueue {
         private Pet pet;

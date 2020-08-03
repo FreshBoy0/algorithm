@@ -1,468 +1,582 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4728b52-60e1-4976-8d13-ddf0975ed672" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_collections_google_collections_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lmax_disruptor_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_44_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_jexcelapi_jxl_2_6_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/offer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_1/swordPoint2Offer_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/swordPoint2Offer_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P01_GetMinStack$MyStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P01_GetMinStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P02_由两个栈组成的队列$TwoStackQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P02_由两个栈组成的队列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P03_使用递归逆序一个栈.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列$Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列$CatDowQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列$Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列$Pet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列$PetEnterQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P05_用一个栈实现另一个栈的排序.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P06_用栈来解决汉诺塔问题$Action.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P06_用栈来解决汉诺塔问题.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P07_生成窗口最大值数组.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P08_单调栈结构.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P09_求最大子矩阵的大小.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P10_最大值减去最小值小于或等于num的子数组数量.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P11_可见的山峰对数量$Record.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P11_可见的山峰对数量.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_04_递归和动态规划/P01_斐波那契数列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_04_递归和动态规划/P02_矩阵的最小路径和.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_04_递归和动态规划/P03_机器人达到指定位置方法数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_04_递归和动态规划/P04_换钱的最少货币数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/E001_两数之和.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/E035_搜索插入位置.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/E069_x的平方根.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/E083_删除排序链表中的重复元素.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/H004_寻找两个有序数组的中位数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/H042_接雨水.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M002_两数相加.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M003_无重复字符的最长子串.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M005_最长回文子串.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M011_盛最多水的容器.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M014_最长公共前缀.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M015_三数之和.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M016_最接近的三数之和.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M019_删除链表的倒数第N个节点.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M024_两两交换链表中的节点.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M033_搜索旋转排序数组.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M034_在排序数组中查找元素的第一个和最后一个位置.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M043_字符串相乘.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M060_第k个排列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M061_旋转链表.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M071_简化路径.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M074_搜索二维矩阵.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M093_复原IP地址.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M094_二叉树的中序遍历.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M096_不同的二叉搜索树的数量.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M098_验证二叉搜索树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/E101_对称二叉树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/E110_平衡二叉树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/H128_最长连续序列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M102_二叉树的层次遍历.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M144_二叉树的前序遍历.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M145_二叉树的后序遍历.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M146_LRU缓存机制$DoubleLinkedNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M146_LRU缓存机制$LRUCache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M146_LRU缓存机制.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M151_翻转字符串里的单词.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M153_寻找旋转排序数组中的最小值.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M199_二叉树的右视图.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code1000/E1071_字符串的最大公因子.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code1100/E1160_拼写单词.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code200/E226_翻转二叉树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code200/E237_删除链表中的结点.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code200/H297_二叉树的序列化与反序列化.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code200/M215_数组中的第K个最大元素.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code300/M300_最长上升子序列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code300/M365_水壶问题.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code400/E409_最长回文串.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code400/H460_LFU缓存$FreqHeadNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code400/H460_LFU缓存$FreqNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code400/H460_LFU缓存$LFUCache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code400/H460_LFU缓存.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code500/M547_朋友圈.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code500/M567_字符串的排列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code600/E674_最长连续递增序列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code600/M695_岛屿的最大面积.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code800/E836_矩形重叠.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code800/E876_链表的中间结点.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code900/M912_排序数组.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code900/M945_使数组唯一的最小增量.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton_DoubleCheck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton_EHan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton_LanHan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton_StaticInnerClass$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton_StaticInnerClass$SingletonHolder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton_StaticInnerClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b02_单例模式.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b03_二维数组中的二分查找.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b04_替换空格.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b05_从尾到头打印链表.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b06_重建二叉树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b07_用两个栈实现队列$QueueWithTwoStacks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b07_用两个栈实现队列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b08_旋转数组中二分查找最小数字.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b09_斐波那契数列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b10_二进制中1的个数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c11_数值的整数次方.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c12_打印1到最大的n位数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c13_删除链表结点.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c14_调整数组顺序使奇数位于偶数前面.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c15_链表中倒数第k个结点.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c16_反转链表.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c17_合并两个排序的链表.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c18_树的子结构.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d19_二叉树的镜像.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d20_顺时针打印矩阵.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d21_包含min函数的栈$StackWithMin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d21_包含min函数的栈.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d22_栈的压入$弹出序列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d23_从上往下打印二叉树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d24_二叉搜索树的后序遍历序列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d25_二叉树中和为某一值的路径.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d26_复杂链表的复制$ComplexListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d26_复杂链表的复制.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d27_二叉搜索树与双向链表.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d28_字符串的排列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d28_字符串的组合.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e29_数组中出现次数超过一半的数字.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e30_最小的k个数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e31_连续子数组的最大和.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e32_从1到n整数中1出现的次数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e33_把数组排成最小的数$StringComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e33_把数组排成最小的数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e34_丑数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e35_第一个只出现一次的字符.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e36_数组中的逆序对.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e37_两个单向链表的第一个公共结点.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f38_数字在排序数组中出现的次数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f39_1$二叉树的深度.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f39_2$判断二叉树是否平衡.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f40_数组中只出现一次的数字.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f41_1$和为s的两个数字.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f41_2$和为s的连续正数序列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f42_1$翻转单词顺序.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f42_2$左旋转字符串.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f43_n个骰子的点数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f44_扑克牌的顺子.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f45_圆圈中最后剩下的数字$约瑟夫环杀人.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f46_求1到n的和$Temp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f46_求1到n的和.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f47_不用加减乘除做加法.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f48_不能被继承的类.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/g49_把字符串转换成整数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/g50_树中两个结点的最低公共祖先$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/g50_树中两个结点的最低公共祖先.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h51_数组中重复的数字.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h52_构建乘积数组.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h53_正则表达式匹配.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h54_表示数值的字符串.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h55_字符流中第一个不重复的字符$CharStatistics.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h55_字符流中第一个不重复的字符.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h56_链表中环的入口结点.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h57_删除链表中重复的结点.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h58_二叉树的下一个结点.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h59_对称的二叉树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h60_把二叉树打印成多行.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h61_按之字形顺序打印二叉树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h62_序列化二叉树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h63_二叉搜索树的第k个结点.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h64_数据流中的中位数$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h64_数据流中的中位数$DescComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h64_数据流中的中位数$DynamicArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h64_数据流中的中位数$Heap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h64_数据流中的中位数$IncComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h64_数据流中的中位数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h65_滑动窗口的最大值.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h66_矩阵中的路径.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h67_机器人的运动范围.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/树/MorrisTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/树/b06_根据先序和中序数组_重建二叉树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/树/b06_根据后序和中序数组_重建二叉树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/a_Bubble.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/a_Selection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/b_Insertion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/c_Shell.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/d_Merge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/e_Quick.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/f_Heap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/g_基数排序.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/g_计数排序.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/AlgorithmPrototype/SlidingWindowMaxValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/AlgorithmPrototype/SubArrayMaxSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/a_1st_Season/aa_Manacher_bfprt_KMP/KMP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/a_1st_Season/aa_Manacher_bfprt_KMP/Manacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/ba160720/RussianDollEnvelopes$Dot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/ba160720/RussianDollEnvelopes$DotComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/ba160720/RussianDollEnvelopes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/ba160720/TrappingRainWater.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/ba160720/arrUp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bb160727/a_SubArrayMaxSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bb160727/b_TwoSubArrayMaxSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bb160727/c_MaxLength.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/CompleteTreeNodeNumber$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/CompleteTreeNodeNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/LongestLessSumSubArrayLength.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/MaxSubMatrixSumLessK.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/MaximalRectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/PrefixCheck$Tries.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/PrefixCheck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/SubArrayMaxSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/SubMatrixMaxSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/SlidingWindowMaxValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/ExpressionCompute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/GetMinStack$MyStack1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/GetMinStack$MyStack2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/GetMinStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/ReverseStackUsingRecursive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/SlidingWindowMaxArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/TwoQueuesImplementStack$Queue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/TwoQueuesImplementStack$Stack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/TwoQueuesImplementStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/TwoStacksImplementQueue$TwoStacksQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/TwoStacksImplementQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/AllLessNumSubArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/DogCat$Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/DogCat$Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/DogCat$DogCatQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/DogCat$Pet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/DogCat$PetEnterQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/DogCat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/Hanoi$Action.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/Hanoi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/MaxTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/MaxTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/CopyListWithRandom$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/CopyListWithRandom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/FindFirstIntersectNode$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/FindFirstIntersectNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/IsPalindromeList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/IsPalindromeList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/Josephus$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/Josephus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/RemoveNodeWired$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/RemoveNodeWired.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bg160831/src/BSTtoDoubleLinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bg160831/src/BSTtoDoubleLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bg160831/src/KMPAlgorithm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bg160831/src/LongestSubarrayLessSumAwesomeSolution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/BiggestSubBSTInTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/PreInPosTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_01_PreInPosTraversal$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_01_PreInPosTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_03_PrintBinaryTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_03_PrintBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_06_LongestPathSum$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_06_LongestPathSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_07_BiggestSubBSTInTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_07_BiggestSubBSTInTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_20_MaxDistanceInTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_20_MaxDistanceInTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/BiggestBSTTopologyInTree$Record.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/BiggestBSTTopologyInTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/MorrisTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_05_MorrisTraversal$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_05_MorrisTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_08_BiggestBSTTopologyInTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_08_BiggestBSTTopologyInTree$Record.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_08_BiggestBSTTopologyInTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_17_DescendantNode$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_17_DescendantNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/IsBalancedBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/IsCompleteBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/IsSearchBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/RecoverBST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_09_PrintBinaryTreeByLevelAndZigZag$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_09_PrintBinaryTreeByLevelAndZigZag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_10_RecoverBST$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_10_RecoverBST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_13_IsBalancedTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_13_IsBalancedTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_15_IsBSTAndCBT$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_15_IsBSTAndCBT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/testRecoverBST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/book/BinaryTree/getPosArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/other/NthPrime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/datastruct/BinarySearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/datastruct/BinaryTreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/datastruct/BinaryTreeNodeWithParent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/datastruct/DoubleLinkedNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/datastruct/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/datastruct/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/ConstructBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/ConstructListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/DateTimeUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/LocalDateTimeUtil$TimeBetween.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/LocalDateTimeUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/PrintBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/StandardInit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/StringUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/SwapUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/SysOut.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/SysRandom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/SystemUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/图/BFS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/图/DFS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/图/Graph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/堆/MaxHeap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/堆/MinHeap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/二叉查找树/BinarySearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/二叉查找树/BinarySearchTreeImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/二叉查找树/BinarySearchTreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/二叉查找树/BinarySearchTreeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/AVLNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/AVLTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/AVLTreeImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/AVLTreeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/RedBlackNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/RedBlackTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/RedBlackTreeImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/RedBlackTreeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/design_pattern/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/collections/List.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/collections/Map.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/AbstractQueuedSynchronizer$ConditionObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/AbstractQueuedSynchronizer$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/AbstractQueuedSynchronizer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/ConditionObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/ReentrantLock$FairSync.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/ReentrantLock$NonfairSync.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/ReentrantLock$Sync.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/ReentrantLock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/Semaphore$FairSync.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/Semaphore$NonfairSync.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/Semaphore$Sync.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/Semaphore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/BlockedQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/Cache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/DisruptorDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/DisruptorDemo$Event.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/DisruptorDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/ObjectPool$Pool$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/ObjectPool$Pool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/ObjectPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/Point.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a0_多线程同步$CyclicBarrierTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a0_多线程同步$DeliveryOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a0_多线程同步$Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a0_多线程同步$ProcessOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a0_多线程同步.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a1_MyThreadPool$ThreadPool$WorkerThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a1_MyThreadPool$ThreadPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a1_MyThreadPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a2_Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/b1_FutureTaskDemo$T1Task.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/b1_FutureTaskDemo$T2Task.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/b1_FutureTaskDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/b2_CompletableFutureDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/b3_CompletionServiceDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/c1_FockJoinDemo$Fibonacci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/c1_FockJoinDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/c2_FockJoinDemo2$MR.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/c2_FockJoinDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/lang/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/TargetInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/TargetMethodCallbackFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/TargetResultFixed.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/lazyloader/ConcreteClassDispatcher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/lazyloader/ConcreteClassLazyLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/lazyloader/LazyBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/lazyloader/PropertyBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/jdk/HelloService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/jdk/HelloServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/jdk/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/jdk/MyInvocationHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/http/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/http/HttpServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/http/ServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/http/ServerInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/ClientApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/ServerApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/client/RPCClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/client/request/RPCException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/client/request/RPCRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/client/request/RPCResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/client/request/RequestId.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/client/request/ResponseRegistry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/customHandler/ExpRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/customHandler/ExpRequestHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/customHandler/ExpResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/customHandler/FibRequestHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/RPCServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/RPCServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/ServerHandler$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/ServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/message/DefaultHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/message/IMessageHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/message/MessageHandlers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/message/MessageInput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/message/MessageOutput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/message/MessageRegistry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/client/ClientApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/client/ClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/client/ClientInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/client/SocketClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/server/ServerApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/server/ServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/server/ServerInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/server/SocketServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/os/jvm/HeapOOM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/os/jvm/Jxl_FGC_Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/patterndesign/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/redis/HyperLogLog/HyperLogLogCounting$BitKeeper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/redis/HyperLogLog/HyperLogLogCounting$Experiment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/redis/HyperLogLog/HyperLogLogCounting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/redis/HyperLogLog/HyperLogLogCountingDemo$BitKeeper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/redis/HyperLogLog/HyperLogLogCountingDemo$Experiment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/redis/HyperLogLog/HyperLogLogCountingDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/tool/GenerateUUID.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/advanceTest/反射$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/advanceTest/反射.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/FileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/JsonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/ListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/MapTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/MapTest$Key.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/MapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/SetTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/StringTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/practice/二分查找.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/practice/堆排序.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/swordPoint2Offer_3.iml" afterDir="false" />
+    <list default="true" id="a4728b52-60e1-4976-8d13-ddf0975ed672" name="Default Changelist" comment="新增剑指offer题解的两个模块">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_ruedigermoeller_fst_2_57.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_bean_5_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_5_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/MaxQueue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/AQS/MyReentrantLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/BlockingTest/BlockingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/BoundedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/CountTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/CountdownLatchTest2/CountdownLatchTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/CyclicBarrierTest/CyclicBarrierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Employee2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/HashMap/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/IO/fileChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/JoinCountDownLatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/LRUCache/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Manacher/Manacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Mutex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/MyInterceptor/MyInterceptor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/MyThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/ReadWriteLockCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/SemaphoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/StringPermutation/StringPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/StringPermutation/stringCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/ThreadLocal/MyThreadLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/TwinsLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/blockingQueue/ArrayBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/cycleLeftShift/CycleLeftShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/delayedQueue/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/delayedQueue/DelayQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/delayedQueue/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/delayedQueue/Producter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/dynamicProxy/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/dynamicProxy/Actor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/dynamicProxy/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/dynamicProxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/dynamicProxy/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/dynamicProxy/IActor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/dynamicProxy/account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/dynamicProxy/account/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/dynamicProxy/account/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/dynamicProxy/account/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/dynamicProxy/account/factory/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/dynamicProxy/account/utils/ConnectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/dynamicProxy/account/utils/TransactionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/heapOOMTest/HeapOOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/kmp/Kmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/linkedHahsMap/MyLinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/mybatisPlugin/PageParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/mybatisPlugin/PagingPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/redis/RedisDelayingQueue/RedisDelayingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/redis/bloomFilter/BloomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/redis/redisLock/RedisWithReentrantKock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/swordPoint2Offer/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/swordPoint2Offer/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/threadPool/Executors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/threadPool/ThreadPoolExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/uploadFile/uploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/resources/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/MaxInWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/MaxInWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/PrintProbability.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/PrintProbability.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/swordPoint2Offer_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/swordPoint2Offer_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P01_GetMinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P01_GetMinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/LeetCode/code000/M005_最长回文子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/LeetCode/code000/M005_最长回文子串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/LeetCode/code1000/E1071_字符串的最大公因子.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/LeetCode/code1000/E1071_字符串的最大公因子.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/f42_2$左旋转字符串.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/f42_2$左旋转字符串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/f43_n个骰子的点数.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/f43_n个骰子的点数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/swordPoint2Offer_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/swordPoint2Offer_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P01_GetMinStack$MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P01_GetMinStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P02_由两个栈组成的队列$TwoStackQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P02_由两个栈组成的队列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P03_使用递归逆序一个栈.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列$CatDowQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列$PetEnterQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P04_猫狗队列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P05_用一个栈实现另一个栈的排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P06_用栈来解决汉诺塔问题$Action.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P06_用栈来解决汉诺塔问题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P07_生成窗口最大值数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P08_单调栈结构.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P09_求最大子矩阵的大小.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P10_最大值减去最小值小于或等于num的子数组数量.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P11_可见的山峰对数量$Record.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_01_栈和队列/P11_可见的山峰对数量.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_04_递归和动态规划/P01_斐波那契数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_04_递归和动态规划/P02_矩阵的最小路径和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_04_递归和动态规划/P03_机器人达到指定位置方法数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/Coding_Interview_Guide_2ndEdition/Chapter_04_递归和动态规划/P04_换钱的最少货币数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/E001_两数之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/E035_搜索插入位置.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/E069_x的平方根.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/E083_删除排序链表中的重复元素.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/H004_寻找两个有序数组的中位数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/H042_接雨水.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M002_两数相加.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M003_无重复字符的最长子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M005_最长回文子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M011_盛最多水的容器.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M014_最长公共前缀.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M015_三数之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M016_最接近的三数之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M019_删除链表的倒数第N个节点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M024_两两交换链表中的节点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M033_搜索旋转排序数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M034_在排序数组中查找元素的第一个和最后一个位置.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M043_字符串相乘.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M060_第k个排列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M061_旋转链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M071_简化路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M074_搜索二维矩阵.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M093_复原IP地址.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M094_二叉树的中序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M096_不同的二叉搜索树的数量.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code000/M098_验证二叉搜索树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/E101_对称二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/E110_平衡二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/H128_最长连续序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M102_二叉树的层次遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M144_二叉树的前序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M145_二叉树的后序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M146_LRU缓存机制$DoubleLinkedNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M146_LRU缓存机制$LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M146_LRU缓存机制.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M151_翻转字符串里的单词.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M153_寻找旋转排序数组中的最小值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code100/M199_二叉树的右视图.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code1000/E1071_字符串的最大公因子.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code1100/E1160_拼写单词.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code200/E226_翻转二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code200/E237_删除链表中的结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code200/H297_二叉树的序列化与反序列化.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code200/M215_数组中的第K个最大元素.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code300/M300_最长上升子序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code300/M365_水壶问题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code400/E409_最长回文串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code400/H460_LFU缓存$FreqHeadNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code400/H460_LFU缓存$FreqNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code400/H460_LFU缓存$LFUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code400/H460_LFU缓存.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code500/M547_朋友圈.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code500/M567_字符串的排列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code600/E674_最长连续递增序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code600/M695_岛屿的最大面积.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code800/E836_矩形重叠.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code800/E876_链表的中间结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code900/M912_排序数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/LeetCode/code900/M945_使数组唯一的最小增量.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton_DoubleCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton_EHan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton_LanHan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton_StaticInnerClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton_StaticInnerClass$SingletonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/Singleton_StaticInnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b02_单例模式.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b03_二维数组中的二分查找.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b04_替换空格.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b05_从尾到头打印链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b06_重建二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b07_用两个栈实现队列$QueueWithTwoStacks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b07_用两个栈实现队列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b08_旋转数组中二分查找最小数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b09_斐波那契数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/b10_二进制中1的个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c11_数值的整数次方.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c12_打印1到最大的n位数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c13_删除链表结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c14_调整数组顺序使奇数位于偶数前面.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c15_链表中倒数第k个结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c16_反转链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c17_合并两个排序的链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/c18_树的子结构.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d19_二叉树的镜像.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d20_顺时针打印矩阵.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d21_包含min函数的栈$StackWithMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d21_包含min函数的栈.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d22_栈的压入$弹出序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d23_从上往下打印二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d24_二叉搜索树的后序遍历序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d25_二叉树中和为某一值的路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d26_复杂链表的复制$ComplexListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d26_复杂链表的复制.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d27_二叉搜索树与双向链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d28_字符串的排列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/d28_字符串的组合.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e29_数组中出现次数超过一半的数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e30_最小的k个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e31_连续子数组的最大和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e32_从1到n整数中1出现的次数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e33_把数组排成最小的数$StringComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e33_把数组排成最小的数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e34_丑数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e35_第一个只出现一次的字符.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e36_数组中的逆序对.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/e37_两个单向链表的第一个公共结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f38_数字在排序数组中出现的次数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f39_1$二叉树的深度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f39_2$判断二叉树是否平衡.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f40_数组中只出现一次的数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f41_1$和为s的两个数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f41_2$和为s的连续正数序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f42_1$翻转单词顺序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f42_2$左旋转字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f43_n个骰子的点数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f44_扑克牌的顺子.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f45_圆圈中最后剩下的数字$约瑟夫环杀人.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f46_求1到n的和$Temp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f46_求1到n的和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f47_不用加减乘除做加法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f48_不能被继承的类.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/g49_把字符串转换成整数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/g50_树中两个结点的最低公共祖先$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/g50_树中两个结点的最低公共祖先.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h51_数组中重复的数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h52_构建乘积数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h53_正则表达式匹配.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h54_表示数值的字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h55_字符流中第一个不重复的字符$CharStatistics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h55_字符流中第一个不重复的字符.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h56_链表中环的入口结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h57_删除链表中重复的结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h58_二叉树的下一个结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h59_对称的二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h60_把二叉树打印成多行.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h61_按之字形顺序打印二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h62_序列化二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h63_二叉搜索树的第k个结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h64_数据流中的中位数$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h64_数据流中的中位数$DescComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h64_数据流中的中位数$DynamicArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h64_数据流中的中位数$Heap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h64_数据流中的中位数$IncComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h64_数据流中的中位数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h65_滑动窗口的最大值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h66_矩阵中的路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h67_机器人的运动范围.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/树/MorrisTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/树/b06_根据先序和中序数组_重建二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/树/b06_根据后序和中序数组_重建二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/a_Bubble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/a_Selection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/b_Insertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/c_Shell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/d_Merge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/e_Quick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/f_Heap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/g_基数排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/a_Sorting/g_计数排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/AlgorithmPrototype/SlidingWindowMaxValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/AlgorithmPrototype/SubArrayMaxSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/a_1st_Season/aa_Manacher_bfprt_KMP/KMP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/a_1st_Season/aa_Manacher_bfprt_KMP/Manacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/ba160720/RussianDollEnvelopes$Dot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/ba160720/RussianDollEnvelopes$DotComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/ba160720/RussianDollEnvelopes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/ba160720/TrappingRainWater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/ba160720/arrUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bb160727/a_SubArrayMaxSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bb160727/b_TwoSubArrayMaxSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bb160727/c_MaxLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/CompleteTreeNodeNumber$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/CompleteTreeNodeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/LongestLessSumSubArrayLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/MaxSubMatrixSumLessK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/MaximalRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/PrefixCheck$Tries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/PrefixCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/SubArrayMaxSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bc160803/src/SubMatrixMaxSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/SlidingWindowMaxValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/ExpressionCompute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/GetMinStack$MyStack1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/GetMinStack$MyStack2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/GetMinStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/ReverseStackUsingRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/SlidingWindowMaxArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/TwoQueuesImplementStack$Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/TwoQueuesImplementStack$Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/TwoQueuesImplementStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/TwoStacksImplementQueue$TwoStacksQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bd160810/src/TwoStacksImplementQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/AllLessNumSubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/DogCat$Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/DogCat$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/DogCat$DogCatQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/DogCat$Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/DogCat$PetEnterQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/DogCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/Hanoi$Action.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/Hanoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/MaxTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/be160817/src/MaxTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/CopyListWithRandom$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/CopyListWithRandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/FindFirstIntersectNode$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/FindFirstIntersectNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/IsPalindromeList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/IsPalindromeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/Josephus$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/Josephus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/RemoveNodeWired$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bf160824/src/RemoveNodeWired.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bg160831/src/BSTtoDoubleLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bg160831/src/BSTtoDoubleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bg160831/src/KMPAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bg160831/src/LongestSubarrayLessSumAwesomeSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/BiggestSubBSTInTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/PreInPosTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_01_PreInPosTraversal$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_01_PreInPosTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_03_PrintBinaryTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_03_PrintBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_06_LongestPathSum$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_06_LongestPathSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_07_BiggestSubBSTInTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_07_BiggestSubBSTInTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_20_MaxDistanceInTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bh160907/src/Problem_20_MaxDistanceInTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/BiggestBSTTopologyInTree$Record.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/BiggestBSTTopologyInTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/MorrisTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_05_MorrisTraversal$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_05_MorrisTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_08_BiggestBSTTopologyInTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_08_BiggestBSTTopologyInTree$Record.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_08_BiggestBSTTopologyInTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_17_DescendantNode$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bi160914/src/Problem_17_DescendantNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/IsBalancedBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/IsCompleteBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/IsSearchBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/RecoverBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_09_PrintBinaryTreeByLevelAndZigZag$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_09_PrintBinaryTreeByLevelAndZigZag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_10_RecoverBST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_10_RecoverBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_13_IsBalancedTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_13_IsBalancedTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_15_IsBSTAndCBT$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/src/Problem_15_IsBSTAndCBT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/b_2nd_Season/bj160928/testRecoverBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/nowcoder/book/BinaryTree/getPosArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/other/NthPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/datastruct/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/datastruct/BinaryTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/datastruct/BinaryTreeNodeWithParent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/datastruct/DoubleLinkedNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/datastruct/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/datastruct/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/ConstructBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/ConstructListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/DateTimeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/LocalDateTimeUtil$TimeBetween.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/LocalDateTimeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/PrintBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/StandardInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/StringUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/SwapUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/SysOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/SysRandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/common/util/SystemUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/图/BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/图/DFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/图/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/堆/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/堆/MinHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/二叉查找树/BinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/二叉查找树/BinarySearchTreeImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/二叉查找树/BinarySearchTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/二叉查找树/BinarySearchTreeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/AVLNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/AVLTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/AVLTreeImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/AVLTreeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/RedBlackNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/RedBlackTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/RedBlackTreeImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/data_struct/树/平衡查找树/RedBlackTreeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/design_pattern/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/collections/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/collections/Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/AbstractQueuedSynchronizer$ConditionObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/AbstractQueuedSynchronizer$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/AbstractQueuedSynchronizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/ConditionObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/ReentrantLock$FairSync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/ReentrantLock$NonfairSync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/ReentrantLock$Sync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/ReentrantLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/Semaphore$FairSync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/Semaphore$NonfairSync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/Semaphore$Sync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/AQS/Semaphore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/BlockedQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/Cache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/DisruptorDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/DisruptorDemo$Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/DisruptorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/ObjectPool$Pool$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/ObjectPool$Pool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/ObjectPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a0_多线程同步$CyclicBarrierTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a0_多线程同步$DeliveryOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a0_多线程同步$Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a0_多线程同步$ProcessOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a0_多线程同步.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a1_MyThreadPool$ThreadPool$WorkerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a1_MyThreadPool$ThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a1_MyThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/a2_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/b1_FutureTaskDemo$T1Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/b1_FutureTaskDemo$T2Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/b1_FutureTaskDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/b2_CompletableFutureDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/b3_CompletionServiceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/c1_FockJoinDemo$Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/c1_FockJoinDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/c2_FockJoinDemo2$MR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/concurrent/demo/threadpool/c2_FockJoinDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/lang/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/TargetInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/TargetMethodCallbackFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/TargetResultFixed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/lazyloader/ConcreteClassDispatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/lazyloader/ConcreteClassLazyLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/lazyloader/LazyBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/cglib/lazyloader/PropertyBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/jdk/HelloService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/jdk/HelloServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/jdk/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/jdk/proxy/jdk/MyInvocationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/http/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/http/HttpServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/http/ServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/http/ServerInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/ClientApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/ServerApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/client/RPCClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/client/request/RPCException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/client/request/RPCRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/client/request/RPCResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/client/request/RequestId.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/client/request/ResponseRegistry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/customHandler/ExpRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/customHandler/ExpRequestHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/customHandler/ExpResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/customHandler/FibRequestHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/RPCServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/RPCServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/ServerHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/ServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/message/DefaultHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/message/IMessageHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/message/MessageHandlers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/message/MessageInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/message/MessageOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/rpc/server/message/MessageRegistry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/client/ClientApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/client/ClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/client/ClientInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/client/SocketClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/server/ServerApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/server/ServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/server/ServerInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/netty/webSocket/server/SocketServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/os/jvm/HeapOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/os/jvm/Jxl_FGC_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/patterndesign/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/redis/HyperLogLog/HyperLogLogCounting$BitKeeper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/redis/HyperLogLog/HyperLogLogCounting$Experiment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/redis/HyperLogLog/HyperLogLogCounting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/redis/HyperLogLog/HyperLogLogCountingDemo$BitKeeper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/redis/HyperLogLog/HyperLogLogCountingDemo$Experiment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/redis/HyperLogLog/HyperLogLogCountingDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/tool/GenerateUUID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/advanceTest/反射$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/advanceTest/反射.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/FileTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/JsonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/ListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/MapTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/MapTest$Key.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/MapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/SetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/localtest/simpleTest/StringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/practice/二分查找.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/test-classes/practice/堆排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_3/swordPoint2Offer_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_3/swordPoint2Offer_3.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -481,8 +595,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1e2qHqFcrWSxTeNbvmaM5UYvp1f" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -490,14 +606,18 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/swordPoint2Offer_2/src/test/java" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/面试/spring1/02-Spring/03-第三天/代码/spring_day03" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -510,14 +630,20 @@
       <recent name="C:\Users\振华\IdeaProjects\algorithm\swordPoint2Offer_1\src\main\java" />
       <recent name="C:\Users\振华\IdeaProjects\algorithm" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dynamicProxy.account" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dynamicProxy.account" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.E001_两数之和">
-    <configuration name="E001_两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm_practice.LeetCode.code000.E001_两数之和" />
-      <module name="swordPoint2Offer_2" />
+  <component name="RunManager" selected="Application.Solution2">
+    <configuration name="CountdownLatchTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountdownLatchTest2.CountdownLatchTest2" />
+      <module name="swordPoint2Offer_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm_practice.LeetCode.code000.*" />
+          <option name="PATTERN" value="CountdownLatchTest2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -525,12 +651,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOf1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.offer.src.Chap2.NumberOf1" />
-      <module name="swordPoint2Offer_1" />
+    <configuration name="CyclicBarrierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CyclicBarrierTest.CyclicBarrierTest" />
+      <module name="swordPoint2Offer_3" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+HeapDumpOnOutOfMemoryError" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code.offer.src.Chap2.*" />
+          <option name="PATTERN" value="CyclicBarrierTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -538,12 +665,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a_Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm_practice.a_Sorting.a_Bubble" />
-      <module name="swordPoint2Offer_2" />
+    <configuration name="HeapOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heapOOMTest.HeapOOM" />
+      <module name="swordPoint2Offer_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm_practice.a_Sorting.*" />
+          <option name="PATTERN" value="heapOOMTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -551,11 +678,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swordPoint2Offer.Solution" />
+      <module name="swordPoint2Offer_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordPoint2Offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_191\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="swordPoint2Offer.Solution2" />
+      <module name="swordPoint2Offer_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordPoint2Offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CountdownLatchTest2" />
+      <item itemvalue="Application.CyclicBarrierTest" />
+      <item itemvalue="Application.HeapOOM" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution2" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E001_两数之和" />
-        <item itemvalue="Application.a_Bubble" />
-        <item itemvalue="Application.NumberOf1" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.HeapOOM" />
+        <item itemvalue="Application.CyclicBarrierTest" />
+        <item itemvalue="Application.CountdownLatchTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -569,7 +733,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593529950143</updated>
-      <workItem from="1593529951794" duration="3108000" />
+      <workItem from="1593529951794" duration="4711000" />
+      <workItem from="1593535866884" duration="11439000" />
+      <workItem from="1593848381154" duration="2414000" />
+      <workItem from="1593922530473" duration="23545000" />
+      <workItem from="1594717867664" duration="23005000" />
+      <workItem from="1595207008291" duration="27000" />
+      <workItem from="1595238728081" duration="7846000" />
+      <workItem from="1595316300289" duration="3450000" />
+      <workItem from="1595465852038" duration="4708000" />
+      <workItem from="1595497168821" duration="8917000" />
+      <workItem from="1595563410823" duration="5357000" />
+      <workItem from="1595633612060" duration="24456000" />
+      <workItem from="1595749514787" duration="5425000" />
+      <workItem from="1595824606577" duration="33783000" />
+      <workItem from="1595894916202" duration="14908000" />
+      <workItem from="1595964880623" duration="10781000" />
+      <workItem from="1596020747128" duration="255000" />
+      <workItem from="1596021101729" duration="558000" />
+      <workItem from="1596341399576" duration="32931000" />
     </task>
     <task id="LOCAL-00001" summary="新增剑指offer题解的两个模块">
       <created>1593533015554</created>
@@ -578,7 +760,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593533015554</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新增剑指offer题解的两个模块">
+      <created>1593533110491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593533110491</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,41 +778,152 @@
     <option name="LAST_COMMIT_MESSAGE" value="新增剑指offer题解的两个模块" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="376" y="38" key="#HeapOOM" timestamp="1596021443930">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="376" y="38" key="#HeapOOM/0.0.1366.738@0.0.1366.738" timestamp="1596021443930" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596387261419">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1596387261419" />
+    <state x="488" y="53" key="#com.intellij.ide.util.MemberChooser" timestamp="1596355675355">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="53" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1596355675355" />
     <state x="398" y="47" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1593531260846">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="398" y="47" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.738@0.0.1366.738" timestamp="1593531260846" />
-    <state x="207" y="0" key="CommitChangelistDialog2" timestamp="1593533004200">
+    <state x="277" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596358403365">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="207" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1593533004200" />
-    <state width="1323" height="40" key="GridCell.Tab.0.bottom" timestamp="1593532654756">
+    <state x="277" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1596358403365" />
+    <state x="256" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595966544557">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="40" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593532654756" />
-    <state width="1323" height="40" key="GridCell.Tab.0.center" timestamp="1593532654756">
+    <state x="256" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1595966544557" />
+    <state x="207" y="0" key="CommitChangelistDialog2" timestamp="1594718274997">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="40" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1593532654756" />
-    <state width="1323" height="40" key="GridCell.Tab.0.left" timestamp="1593532654756">
+    <state x="207" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1594718274997" />
+    <state width="457" height="438" key="DebuggerActiveHint" timestamp="1596366528888">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="40" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1593532654756" />
-    <state width="1323" height="40" key="GridCell.Tab.0.right" timestamp="1593532654756">
+    <state width="457" height="438" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1596366528888" />
+    <state x="122" y="56" key="DiffContextDialog" timestamp="1594718264177">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="40" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1593532654756" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1593532625848">
+    <state x="122" y="56" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1594718264177" />
+    <state x="463" y="124" width="580" height="490" key="FileChooserDialogImpl" timestamp="1596386915374">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1593532625848" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1593532841527">
+    <state x="463" y="124" width="580" height="490" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1596386915374" />
+    <state width="1323" height="235" key="GridCell.Tab.0.bottom" timestamp="1596387316812">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1593532841527" />
-    <state x="57" y="64" key="new project wizard" timestamp="1593531031428">
+    <state width="1323" height="235" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1596387316812" />
+    <state width="1323" height="235" key="GridCell.Tab.0.center" timestamp="1596387316812">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="57" y="64" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1593531031428" />
+    <state width="1323" height="235" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1596387316812" />
+    <state width="1323" height="235" key="GridCell.Tab.0.left" timestamp="1596387316812">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="235" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1596387316812" />
+    <state width="1323" height="235" key="GridCell.Tab.0.right" timestamp="1596387316812">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="235" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1596387316812" />
+    <state width="1323" height="183" key="GridCell.Tab.1.bottom" timestamp="1596366631302">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1596366631302" />
+    <state width="1323" height="183" key="GridCell.Tab.1.center" timestamp="1596366631302">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1596366631302" />
+    <state width="1323" height="183" key="GridCell.Tab.1.left" timestamp="1596366631301">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1596366631301" />
+    <state width="1323" height="183" key="GridCell.Tab.1.right" timestamp="1596366631302">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1596366631302" />
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog" timestamp="1595633920673">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1595633920673" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1596387275395">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1596387275395" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1593533149266">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1593533149266" />
+    <state x="359" y="102" width="969" height="534" key="find.popup" timestamp="1596365036318">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="359" y="102" width="969" height="534" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1596365036318" />
+    <state x="57" y="64" key="new project wizard" timestamp="1596021666674">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="57" y="64" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1596021666674" />
+    <state x="346" y="59" width="672" height="676" key="search.everywhere.popup" timestamp="1595830693627">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="676" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1595830693627" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/MaxQueue2.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/MaxQueue2.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/f43_n个骰子的点数.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java</url>
+          <line>713</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/test1.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/StringPermutation/StringPermutation.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/LeetCode/code000/M005_最长回文子串.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/linkedHahsMap/MyLinkedHashMap.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java</url>
+          <line>625</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

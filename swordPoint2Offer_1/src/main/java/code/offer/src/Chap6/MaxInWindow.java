@@ -9,6 +9,7 @@ import java.util.*;
  * 他们的最大值分别为{4,4,6,6,6,5}
  */
 public class MaxInWindow {
+    ThreadLocal<Integer> c = new ThreadLocal<>();
     /**
      * 方法1：使用优先队列
      */
@@ -34,11 +35,22 @@ public class MaxInWindow {
         if (num == null || num.length < size || size <= 0) return list;
         Deque<Integer> deque = new LinkedList<>();
         for (int i = 0; i < num.length; i++) {
-            while (!deque.isEmpty() && num[i] >= num[deque.peekLast()]) deque.pollLast();
-            if (!deque.isEmpty() && i - deque.peekFirst() >= size) deque.pollFirst();
+            while (!deque.isEmpty() && num[i] >= num[deque.peekLast()]) {
+                deque.pollLast();
+            }
+            while (!deque.isEmpty() && i - deque.peekFirst() >= size){
+                deque.pollFirst();
+            }
             deque.offerLast(i);
-            if (i +1 >= size) list.add(num[deque.peekFirst()]);
+            if (i +1 >= size) {
+                list.add(num[deque.peekFirst()]);
+            }
         }
         return list;
     }
+
+
+
+
+
 }
