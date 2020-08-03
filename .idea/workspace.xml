@@ -2,93 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4728b52-60e1-4976-8d13-ddf0975ed672" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/AQS/MyReentrantLock$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/AQS/MyReentrantLock$execusiveSync.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/AQS/MyReentrantLock$sharedSync.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/AQS/MyReentrantLock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/BlockingTest/BlockingTest$Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/BlockingTest/BlockingTest$Produce.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/BlockingTest/BlockingTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/BoundedQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/Cache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/CountTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/CountdownLatchTest2/CountdownLatchTest2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/CountdownLatchTest2/CountdownLatchTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/CyclicBarrierTest/CyclicBarrierTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/CyclicBarrierTest/CyclicBarrierTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/Employee2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/HashMap/MyHashMap$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/HashMap/MyHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/IO/fileChannel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/JoinCountDownLatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/LRUCache/LRUCache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/META-INF/swordPoint2Offer_3.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/Manacher/Manacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/Mutex$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/Mutex$Sync.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/Mutex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/MyInterceptor/MyInterceptor1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/MyThreadPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/ReadWriteLockCache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/SemaphoreTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/SemaphoreTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/StringPermutation/StringPermutation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/StringPermutation/stringCombination.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/ThreadLocal/MyThreadLocal$ThreadLocalMap$Entry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/ThreadLocal/MyThreadLocal$ThreadLocalMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/ThreadLocal/MyThreadLocal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/TwinsLock$Sync.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/TwinsLock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/blockingQueue/ArrayBlockingQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/cycleLeftShift/CycleLeftShift.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/delayedQueue/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/delayedQueue/DelayQueueTest$Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/delayedQueue/DelayQueueTest$Producter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/delayedQueue/DelayQueueTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/delayedQueue/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/delayedQueue/Producter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/Actor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/Actor2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/BeanFactory$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/BeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/Client$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/Client2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/Client2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/IActor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/account/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/account/AccountServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/account/IAccountDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/account/IAccountService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/account/factory/BeanFactory$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/account/factory/BeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/account/utils/ConnectionUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/dynamicProxy/account/utils/TransactionManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/heapOOMTest/HeapOOM$OOMObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/heapOOMTest/HeapOOM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/kmp/Kmp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/linkedHahsMap/MyLinkedHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/mybatisPlugin/PageParams.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/mybatisPlugin/PagingPlugin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/redis/RedisDelayingQueue/RedisDelayingQueue$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/redis/RedisDelayingQueue/RedisDelayingQueue$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/redis/RedisDelayingQueue/RedisDelayingQueue$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/redis/RedisDelayingQueue/RedisDelayingQueue$TaskItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/redis/RedisDelayingQueue/RedisDelayingQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/redis/bloomFilter/BloomTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/redis/redisLock/RedisWithReentrantKock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/swordPoint2Offer/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/swordPoint2Offer/Solution2$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/swordPoint2Offer/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/threadPool/Executors$DelayedWorkQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/threadPool/Executors.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/threadPool/ThreadPoolExecutor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/uploadFile/uploadController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +53,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -276,7 +190,7 @@
       <workItem from="1595964880623" duration="10781000" />
       <workItem from="1596020747128" duration="255000" />
       <workItem from="1596021101729" duration="558000" />
-      <workItem from="1596341399576" duration="33735000" />
+      <workItem from="1596341399576" duration="33964000" />
     </task>
     <task id="LOCAL-00001" summary="新增剑指offer题解的两个模块">
       <created>1593533015554</created>
@@ -299,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596468698860</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="請假結束，去公司">
+      <created>1596469312397</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596469312397</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,10 +256,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="256" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1595966544557" />
-    <state x="207" y="0" key="CommitChangelistDialog2" timestamp="1596468665168">
+    <state x="207" y="0" key="CommitChangelistDialog2" timestamp="1596469305648">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="207" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1596468665168" />
+    <state x="207" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1596469305648" />
     <state width="457" height="438" key="DebuggerActiveHint" timestamp="1596366528888">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -387,18 +308,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="213" y="24" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1595633920673" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1596387275395">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1596469515362">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1596387275395" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1593533149266">
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1596469515362" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1596469523308">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1593533149266" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1596469523308" />
     <state x="359" y="102" width="969" height="534" key="find.popup" timestamp="1596365036318">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="359" y="102" width="969" height="534" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1596365036318" />
+    <state x="385" y="160" key="git4idea.merge.GitPullDialog" timestamp="1596469347068">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="385" y="160" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1596469347068" />
     <state x="57" y="64" key="new project wizard" timestamp="1596021666674">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
