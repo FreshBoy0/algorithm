@@ -33,6 +33,8 @@ public class f40_数组中只出现一次的数字 {
         int[] data3 = {4, 6, 1, 1, 1, 1};
         int[] result3 = findNumbersAppearanceOnce(data3);
         System.out.println(result3[0] + " " + result3[1]);
+
+        //System.out.println(findFirstBitIs1(20));
     }
 
     private static int[] findNumbersAppearanceOnce(int[] arr) {
@@ -81,6 +83,7 @@ public class f40_数组中只出现一次的数字 {
         }
         return index;
     }
+
 
 
 }

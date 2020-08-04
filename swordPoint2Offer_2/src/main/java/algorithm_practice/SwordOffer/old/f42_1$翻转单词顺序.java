@@ -38,9 +38,9 @@ public class f42_1$翻转单词顺序 {
 
     public static void main(String[] args) {
         System.out.println(new String(reverseSentence2("I am a student.")));
-        System.out.println(new String(reverseSentence2("Wonderful")));
-        System.out.println(new String(reverseSentence2("")));
-        System.out.println(new String(reverseSentence2("    ")));
+        System.out.println(new String(reverseSentence("I am a student.")));
+//        System.out.println(new String(reverseSentence2("")));
+//        System.out.println(new String(reverseSentence2("    ")));
     }
 
     private static String reverseSentence(String str) {

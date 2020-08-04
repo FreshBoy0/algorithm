@@ -39,7 +39,9 @@ public class ReverseWords {
                 reverse(chars, low, --high);
                 low = ++high;
                 // chars[low]和chars[high]都不为空格
-            } else high++;
+            } else {
+                high++;
+            }
         }
         return new String(chars);
     }

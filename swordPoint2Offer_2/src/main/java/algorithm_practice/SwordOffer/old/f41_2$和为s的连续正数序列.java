@@ -44,7 +44,8 @@ public class f41_2$和为s的连续正数序列 {
         }
         int p1 = 1;
         int p2 = 2;
-        int mid = (1+s) / 2;    //p1如果>mid, p1+p2一定大于s,
+        //p1如果>mid, p1+p2一定大于s,
+        int mid = (1+s) / 2;
         int curSum = p1+p2;
         while (p1 < mid){
             if (curSum == s){

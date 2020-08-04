@@ -6,14 +6,18 @@ package code.offer.src.Chap6;
  */
 public class AppearOnlyOnce {
     public int findNumberAppearOnlyOnce(int[] numbers) {
-        if (numbers == null || numbers.length == 0) throw new RuntimeException("无效输入");
+        if (numbers == null || numbers.length == 0) {
+            throw new RuntimeException("无效输入");
+        }
         int[] bitSum = new int[32];
         int bitMask = 1;
         // 注意先对最低位做位运算，bitSum[0]存的最高位，bitSum[31]存的最低位
         for (int i = 31; i >= 0; i--) {
             for (int number : numbers) {
                 int bit = number & bitMask;
-                if (bit != 0) bitSum[i] += 1;
+                if (bit != 0) {
+                    bitSum[i] += 1;
+                }
             }
             bitMask = bitMask << 1;
         }
