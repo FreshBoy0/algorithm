@@ -25,12 +25,13 @@ package algorithm_practice.SwordOffer.old;
 public class f43_n个骰子的点数 {
 
     public static void main(String[] args) {
-        printProbability(70);
+        //printProbability(5);
 
-        System.out.println();
-        printProbability2(80);
+        //System.out.println();
+        printProbability2(5);
+        //System.out.println();
     }
-    private static final int g_maxValue = 4;    //骰子的最大值
+    private static final int g_maxValue = 6;    //骰子的最大值
 
     private static void printProbability2(int n) {
         if (n<=0){
