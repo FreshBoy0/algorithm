@@ -3,8 +3,7 @@ package algorithm_practice.SwordOffer.old;
 import common.datastruct.BinaryTreeNode;
 
 /**
- * 题目：输入两棵二叉树 A 和 B，判断 B 是不是 A 的子结构。
- *
+ * 题目：输入两棵二叉树 A 和 B，判断B是不是A的子结构。
  * 【解】：
  *      利用二叉树的神级遍历(空间复杂度：O(1)， 时间复杂度：O(h))
  *      转化成字符串匹配问题：KMP算法（时间：O(N)）
@@ -122,7 +121,7 @@ public class c18_树的子结构 {
 
 
     /**
-     * 书上解法：递归
+     *  书上解法：递归
      *  先找到A中是否有和B的head相同的结点，然后递归匹配A.left与B.left、A.right与B.right
      *
      * @param head1 A树

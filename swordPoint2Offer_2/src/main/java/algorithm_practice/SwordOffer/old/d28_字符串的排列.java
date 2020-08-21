@@ -106,7 +106,6 @@ public class d28_字符串的排列 {
         if (chars==null || chars.length<=0){
             return;
         }
-
         int length = chars.length;
         if (begin == length-1){
             System.out.print(new String(chars) + " ");
@@ -119,7 +118,6 @@ public class d28_字符串的排列 {
                 }
             }
         }
-
     }
 
     private static boolean IsSwap(char[] chars, int begin, int end) {

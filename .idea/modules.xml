@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bat_offer-dev/doinb.iml" filepath="$PROJECT_DIR$/bat_offer-dev/doinb.iml" />
       <module fileurl="file://$PROJECT_DIR$/swordPoint2Offer_1/swordPoint2Offer_1.iml" filepath="$PROJECT_DIR$/swordPoint2Offer_1/swordPoint2Offer_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/swordPoint2Offer_2/swordPoint2Offer_2.iml" filepath="$PROJECT_DIR$/swordPoint2Offer_2/swordPoint2Offer_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/swordPoint2Offer_3/swordPoint2Offer_3.iml" filepath="$PROJECT_DIR$/swordPoint2Offer_3/swordPoint2Offer_3.iml" />

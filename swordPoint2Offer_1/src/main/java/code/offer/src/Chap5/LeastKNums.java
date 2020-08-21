@@ -47,9 +47,19 @@ public class LeastKNums {
         int j = high + 1;
         int v = array[low];
         while (true) {
-            while (array[++i] < v) if (i == high) break;
-            while (array[--j] > v) if (j == low) break;
-            if (i >= j) break;
+            while (array[++i] < v) {
+                if (i == high) {
+                    break;
+                }
+            }
+            while (array[--j] > v) {
+                if (j == low) {
+                    break;
+                }
+            }
+            if (i >= j) {
+                break;
+            }
             swap(array, i, j);
         }
         swap(array, low, j);

@@ -1,5 +1,7 @@
 package LRUCache;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
@@ -16,17 +18,9 @@ public class LRUCache extends LinkedHashMap {
         MAX_CACHE_SIZE = cacheSize;
     }
 
+    @Override
     public boolean removeEldestEntry(Map.Entry entry){
         return this.size()>MAX_CACHE_SIZE;
     }
-
-
-
-
-
-
-
-
-
 
 }

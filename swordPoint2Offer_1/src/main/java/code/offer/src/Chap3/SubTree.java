@@ -29,7 +29,6 @@ public class SubTree {
             if (!result) {
                 result = hasSubTree(root1.left, root2);
             }
-
             if (!result) {
                 result = hasSubTree(root1.right, root2);
             }

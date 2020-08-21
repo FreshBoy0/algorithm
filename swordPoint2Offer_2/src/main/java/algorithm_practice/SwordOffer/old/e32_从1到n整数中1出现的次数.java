@@ -21,7 +21,7 @@ package algorithm_practice.SwordOffer.old;
 public class e32_从1到n整数中1出现的次数 {
 
 
-    public static void main(String[] args) {
+//    public static void main(String[] args) {
 //        System.out.println(numberOf1Between1AndN(1)); // 1
 //        System.out.println(numberOf1Between1AndN(5)); // 1
 //        System.out.println(numberOf1Between1AndN(10)); // 2
@@ -29,10 +29,10 @@ public class e32_从1到n整数中1出现的次数 {
 //        System.out.println(numberOf1Between1AndN(99)); // 20
 //        System.out.println(numberOf1Between1AndN(10000)); // 4001
 //        System.out.println(numberOf1Between1AndN(21345)); // 18821
-        System.out.println(numberOf1Between1AndN(54687)); //32439
+ //       System.out.println(numberOf1Between1AndN(12)); //32439
 //        System.out.println(numberOf1Between1AndN(0)); // 0
 //        System.out.println(numberOf1Between1AndN(-1));
-    }
+//    }
 
     private static int numberOf1Between1AndN(int n) {
         if (n<=0){
@@ -100,5 +100,70 @@ public class e32_从1到n整数中1出现的次数 {
             result *= 10;
         }
         return result;
+    }
+
+
+
+    public int countDigitOne(int n) {
+        int digit = 1, res = 0;
+        int high = n / 10, cur = n % 10, low = 0;
+        while(high != 0 || cur != 0) {
+            if(cur == 0) {
+                res += high * digit;
+            } else if(cur == 1) {
+                res += high * digit + low + 1;
+            } else {
+                res += (high + 1) * digit;
+            }
+            low += cur * digit;
+            cur = high % 10;
+            high /= 10;
+            digit *= 10;
+        }
+        return res;
+    }
+
+
+    public String PrintMinNumber(int [] numbers) {
+        int len = numbers.length;
+        if(len < 1) {
+            return "";
+        }
+        for(int i = 0; i < len; i++){
+            for(int j = 0; j < len-i-1; j++){
+                String s1 = String.valueOf(numbers[j]) + numbers[j + 1];
+                String s2 = String.valueOf(numbers[j+1]) + numbers[j];
+                if(s1.compareTo(s2) > 0){
+                    int temp = numbers[j];
+                    numbers[j] = numbers[j+1];
+                    numbers[j+1] = temp;
+                }
+            }
+        }
+        String string = String.valueOf(numbers[0]);
+        for(int i = 1; i < len; i++) {
+            string += String.valueOf(numbers[i]);
+        }
+        return string;
+    }
+
+
+    public static void main(String[] args) {
+
+        System.out.println(GetUglyNumber_Solution(14));
+    }
+
+    public static int GetUglyNumber_Solution(int index) {
+        if(index <= 0) return 0;
+        int p2 = 0, p3 = 0, p5 = 0; //初始化三个指向三个潜在成为最小丑数的位置
+        int[] result = new int[index];
+        result[0] = 1;
+        for(int i = 1; i < index; i++){
+            result[i] = Math.min(result[p2]*2, Math.min(result[p3]*3, result[p5]*5));
+            if(result[i] == result[p2]*2) p2++;//为了防止重复需要三个if都能够走到
+            if(result[i] == result[p3]*3) p3++;//为了防止重复需要三个if都能够走到
+            if(result[i] == result[p5]*5) p5++;//为了防止重复需要三个if都能够走到
+        }
+        return result[index-1];
     }
 }

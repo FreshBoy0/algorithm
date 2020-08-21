@@ -30,10 +30,13 @@ public class c11_数值的整数次方 {
             return base;
         }
         //如果exponent为负数，则先求base的(-exponent)次方，然后return 1/result
+        double result = 0.0;
         if (exponent < 0){
-            exponent = -exponent;
+             result = powWithRecursion(base, -exponent);
+        }else{
+             result = powWithRecursion(base, exponent);
         }
-        double result = powWithRecursion(base, exponent);
+
         if (exponent < 0){
             return 1.0 / result;
         }
@@ -64,14 +67,14 @@ public class c11_数值的整数次方 {
 
 
     public static void main(String[] args) {
-        System.out.println(0.0000000000000000000000001111 == 0);
-        System.out.println(0.0000000000000000000000000000 == 0);
+//        System.out.println(0.0000000000000000000000001111 == 0);
+//        System.out.println(0.0000000000000000000000000000 == 0);
 
-        System.out.println(Power(3,6));
-        System.out.println(Power(2, -4));
-        System.out.println(Power(2, 4));
-        System.out.println(Power(2, 0));
-        System.out.println(Power(0.00000000000000000000000000001, 1));
+        System.out.println(Power(2,-3));
+//        System.out.println(Power(2, -4));
+//        System.out.println(Power(2, 4));
+//        System.out.println(Power(2, 0));
+//        System.out.println(Power(0.00000000000000000000000000001, 1));
 //        System.out.println(Power(0.00000000000000000000000000001, -1));
 //        System.out.println(Power(0.00000000000000000000000000001, 0));
 //        System.out.println(Power(0.00000000000000000000000000000, 0));

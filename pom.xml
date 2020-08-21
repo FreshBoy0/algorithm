@@ -13,6 +13,7 @@
         <module>swordPoint2Offer_2</module>
         <module>swordPoint2Offer_1</module>
         <module>swordPoint2Offer_3</module>
+        <module>bat_offer-dev</module>
     </modules>
 
     <properties>

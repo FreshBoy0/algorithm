@@ -1,31 +1,251 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4728b52-60e1-4976-8d13-ddf0975ed672" name="Default Changelist" comment="新增剑指offer题解的两个模块">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/E59MaxInQueue.java" afterDir="false" />
+    <list default="true" id="a4728b52-60e1-4976-8d13-ddf0975ed672" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/azureSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_swagger_bootstrap_ui_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jul_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_25_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lionsoul_ip2region_1_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j2_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/deploy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/deploy/bat/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/deploy/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/deploy/images/config_github_ur1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/deploy/images/config_shell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/doc/2020最新Java面试题及答案.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/doc/Spring5源码深度解析.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/doc/mybatis 3.x源码深度解析与最佳实践.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/DeathLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/DefaultProfileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/DoAopApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/algorithm/AlgorithmNote.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/algorithm/AlgorithmSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/algorithm/SnowFlake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/cas/ABADemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/cas/AtomicReferenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/cas/CASDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/cas/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/collections/ArrayList源码.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/collections/HashMapNotSafeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/collections/HashMap源码.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/collections/HashSetNotSafeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/collections/ListNotSafeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/collections/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/collections/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/enums/CountryEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/executor/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/executor/MyCustomThreadPoolExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/executor/MyThreadPoolExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/github/github.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jdbc/JDBCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jdbc/MyDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/juc/BlockingQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/juc/CallableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/juc/ConfigProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/juc/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/juc/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/juc/ReadWriteLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/juc/ReentrantLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/juc/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/juc/SpinLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/juc/SynchronousQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/juc/TestTransferValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jvm/JvmDocs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jvm/SoftReferenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jvm/WeekHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jvm/gc/HelloGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jvm/gc/gc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jvm/linux/linux.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jvm/oom/DirectBufferMemoryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jvm/oom/GCOverheadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jvm/oom/JavaHeapSpaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jvm/oom/MetaspaceOOMTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jvm/oom/StackOverflowErrorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jvm/oom/UnableCreateNewThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/jvm/oom/oom.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/product/consumer/ProductConsumer_BlockQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/product/consumer/ProductConsumer_TraditionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/product/consumer/SyncAndReentrantLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/redis/Redis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/redis/images/redis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/redis/images/sentinel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/DoAopAspectApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/Spring面试题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/aop/DoAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/aop/DoProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/images/springfilecyc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/ioc/Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/ioc/MyBeanPostProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/ioc/MyFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/ioc/SpringIoC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/ioc/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/spring/swagger/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/utils/BeanConvertUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/utils/BigDecimalUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/utils/DateTimeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/utils/IpRegionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/utils/RandomValueUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/utils/ReactiveWebUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/utils/SignUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/utils/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/volatiles/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/volatiles/VolatileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/web/controller/DigitalCertController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/web/controller/SwaggerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/web/vo/BaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/java/com/doinb/web/vo/UserVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/resources/Spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/resources/Spring2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/resources/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/resources/data/ip2region.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/resources/log4j2-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/main/resources/notes/interviewnotes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/test/java/com/doinb/IoCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bat_offer-dev/src/test/java/com/doinb/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/BFS/BFSfisrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/BFS/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/BFS/DirectedGraph/ListDG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/BFS/Floyd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/BFS/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/BFS/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/InitObject/Bar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/InitObject/ConstructorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/InitObject/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/InstanceObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Solution/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/SwapUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/SysOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/sort/b_Insertion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/AppearOnlyOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/AppearOnlyOnce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/MaxInWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/MaxInWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/MaxQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/MaxQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/ReverseWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap2/JumpFloor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap2/JumpFloor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap3/SubTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap3/SubTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap4/BSTTransToDLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap4/BSTTransToDLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap5/LeastKNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap5/LeastKNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/notes/剑指offer面试题27--对称的二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/notes/剑指offer面试题27--对称的二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/notes/剑指offer面试题36--二叉搜索树与双向链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/notes/剑指offer面试题36--二叉搜索树与双向链表.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/swordPoint2Offer_1/swordPoint2Offer_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_1/swordPoint2Offer_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/f40_数组中只出现一次的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/f40_数组中只出现一次的数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/f41_2$和为s的连续正数序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/f41_2$和为s的连续正数序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/f42_1$翻转单词顺序.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/f42_1$翻转单词顺序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/h65_滑动窗口的最大值.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/h65_滑动窗口的最大值.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/swordPoint2Offer_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/swordPoint2Offer_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f40_数组中只出现一次的数字.class" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f40_数组中只出现一次的数字.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f41_2$和为s的连续正数序列.class" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f41_2$和为s的连续正数序列.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f42_1$翻转单词顺序.class" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/f42_1$翻转单词顺序.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h65_滑动窗口的最大值.class" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/target/classes/algorithm_practice/SwordOffer/old/h65_滑动窗口的最大值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/c11_数值的整数次方.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/c11_数值的整数次方.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/c18_树的子结构.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/c18_树的子结构.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/d19_二叉树的镜像.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/d19_二叉树的镜像.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/d28_字符串的排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/d28_字符串的排列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/e31_连续子数组的最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/e31_连续子数组的最大和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/e32_从1到n整数中1出现的次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/e32_从1到n整数中1出现的次数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/nowcoder/b_2nd_Season/bd160810/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/nowcoder/b_2nd_Season/bd160810/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/LRUCache/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/LRUCache/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/swordPoint2Offer_3/swordPoint2Offer_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_3/swordPoint2Offer_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/LRUCache/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/LRUCache/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/swordPoint2Offer/Solution2$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/swordPoint2Offer/Solution2$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/swordPoint2Offer/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/swordPoint2Offer/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/swordPoint2Offer_3/target/classes/test1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +275,8 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -62,6 +284,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1e2qHqFcrWSxTeNbvmaM5UYvp1f" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -75,31 +300,32 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/swordPoint2Offer_2/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\振华\IdeaProjects\algorithm\swordPoint2Offer_1\src\main" />
-      <recent name="C:\Users\振华\IdeaProjects\algorithm\swordPoint2Offer_2\src\main" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\31855\git repository\algorithm" />
       <recent name="C:\Users\振华\IdeaProjects\algorithm\swordPoint2Offer_2\src\test\java" />
       <recent name="C:\Users\振华\IdeaProjects\algorithm\swordPoint2Offer_2\src\main\java" />
       <recent name="C:\Users\振华\IdeaProjects\algorithm\swordPoint2Offer_1\src\main\java" />
       <recent name="C:\Users\振华\IdeaProjects\algorithm" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\振华\IdeaProjects\algorithm\swordPoint2Offer_1\src\main" />
+      <recent name="C:\Users\振华\IdeaProjects\algorithm\swordPoint2Offer_2\src\main" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.MaxQueue">
-    <configuration name="E59MaxInQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.offer.src.Chap6.E59MaxInQueue" />
-      <module name="swordPoint2Offer_1" />
+  <component name="RunManager" selected="Application.b_Insertion">
+    <configuration name="BFSfisrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS.BFSfisrt" />
+      <module name="swordPoint2Offer_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code.offer.src.Chap6.*" />
+          <option name="PATTERN" value="BFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +333,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxInWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.offer.src.Chap6.MaxInWindow" />
-      <module name="swordPoint2Offer_1" />
+    <configuration name="Floyd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS.Floyd" />
+      <module name="swordPoint2Offer_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code.offer.src.Chap6.*" />
+          <option name="PATTERN" value="BFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +346,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.offer.src.Chap6.MaxQueue" />
-      <module name="swordPoint2Offer_1" />
+    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.ShellSort" />
+      <module name="swordPoint2Offer_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code.offer.src.Chap6.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,8 +359,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="f42_1$翻转单词顺序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm_practice.SwordOffer.old.f42_1$翻转单词顺序" />
+    <configuration name="b_Insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.b_Insertion" />
+      <module name="swordPoint2Offer_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e32_从1到n整数中1出现的次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm_practice.SwordOffer.old.e32_从1到n整数中1出现的次数" />
       <module name="swordPoint2Offer_2" />
       <extension name="coverage">
         <pattern>
@@ -146,26 +385,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="h65_滑动窗口的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm_practice.SwordOffer.old.h65_滑动窗口的最大值" />
-      <module name="swordPoint2Offer_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm_practice.SwordOffer.old.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="DoAopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="doinb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.doinb.DoAopApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.e32_从1到n整数中1出现的次数" />
+      <item itemvalue="Application.BFSfisrt" />
+      <item itemvalue="Application.Floyd" />
+      <item itemvalue="Spring Boot.DoAopApplication" />
+      <item itemvalue="Application.ShellSort" />
+      <item itemvalue="Application.b_Insertion" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxQueue" />
-        <item itemvalue="Application.E59MaxInQueue" />
-        <item itemvalue="Application.MaxInWindow" />
-        <item itemvalue="Application.h65_滑动窗口的最大值" />
-        <item itemvalue="Application.f42_1$翻转单词顺序" />
+        <item itemvalue="Application.b_Insertion" />
+        <item itemvalue="Application.ShellSort" />
+        <item itemvalue="Application.Floyd" />
+        <item itemvalue="Application.BFSfisrt" />
+        <item itemvalue="Application.e32_从1到n整数中1出现的次数" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +435,14 @@
       <workItem from="1593529951794" duration="3108000" />
       <workItem from="1593566591877" duration="13422000" />
       <workItem from="1593589877325" duration="10455000" />
-      <workItem from="1593767003322" duration="17604000" />
+      <workItem from="1593767003322" duration="33859000" />
+      <workItem from="1596591333094" duration="1195000" />
+      <workItem from="1596599192829" duration="598000" />
+      <workItem from="1596600265930" duration="1210000" />
+      <workItem from="1596679467525" duration="18762000" />
+      <workItem from="1597022621697" duration="71764000" />
+      <workItem from="1597982408813" duration="4580000" />
+      <workItem from="1597993009628" duration="11458000" />
     </task>
     <task id="LOCAL-00001" summary="新增剑指offer题解的两个模块">
       <created>1593533015554</created>
@@ -203,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593533015554</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新增剑指offer题解的两个模块">
+      <created>1596503578472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596503578472</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +469,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="新增剑指offer题解的两个模块" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2573" y="189" key="#HelloGC" timestamp="1596766013442">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2573" y="189" key="#HelloGC/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596766013442" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596768464779">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596768464779" />
+    <state x="2685" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1597110928275">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597110928275" />
     <state x="398" y="47" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1593531260846">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -222,68 +489,108 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593566680961" />
-    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1594276347013">
+    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1596503571849">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="207" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1593533004200" />
-    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594276347013" />
-    <state width="448" height="466" key="DebuggerActiveHint" timestamp="1593598137763">
+    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596503571849" />
+    <state width="448" height="466" key="DebuggerActiveHint" timestamp="1598004379052">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="448" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596532958143" />
+    <state width="448" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598004379052" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1596678645213">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="448" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593598137763" />
-    <state width="1877" height="110" key="GridCell.Tab.0.bottom" timestamp="1593766978363">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596678645213" />
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom" timestamp="1598006350596">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="40" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593532654756" />
-    <state width="1877" height="110" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593766978363" />
-    <state width="1877" height="110" key="GridCell.Tab.0.center" timestamp="1593766978363">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="589" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597023432569" />
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598006350596" />
+    <state width="1877" height="305" key="GridCell.Tab.0.center" timestamp="1598006350596">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="40" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1593532654756" />
-    <state width="1877" height="110" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593766978363" />
-    <state width="1877" height="110" key="GridCell.Tab.0.left" timestamp="1593766978363">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="589" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597023432569" />
+    <state width="1877" height="305" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598006350596" />
+    <state width="1877" height="305" key="GridCell.Tab.0.left" timestamp="1598006350596">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="40" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1593532654756" />
-    <state width="1877" height="110" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593766978363" />
-    <state width="1877" height="110" key="GridCell.Tab.0.right" timestamp="1593766978363">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="589" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597023432569" />
+    <state width="1877" height="305" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598006350596" />
+    <state width="1877" height="305" key="GridCell.Tab.0.right" timestamp="1598006350596">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="40" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1593532654756" />
-    <state width="1877" height="110" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593766978363" />
-    <state width="1877" height="110" key="GridCell.Tab.1.bottom" timestamp="1593766978363">
+    <state width="1877" height="589" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597023432569" />
+    <state width="1877" height="305" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598006350596" />
+    <state width="1877" height="247" key="GridCell.Tab.1.bottom" timestamp="1598005659709">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596533475169" />
+    <state width="1877" height="247" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598005659709" />
+    <state width="1877" height="247" key="GridCell.Tab.1.center" timestamp="1598005659709">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596533475169" />
+    <state width="1877" height="247" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598005659709" />
+    <state width="1877" height="247" key="GridCell.Tab.1.left" timestamp="1598005659709">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596533475169" />
+    <state width="1877" height="247" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598005659709" />
+    <state width="1877" height="247" key="GridCell.Tab.1.right" timestamp="1598005659709">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="434" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596533475169" />
+    <state width="1877" height="247" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598005659709" />
+    <state x="184" y="92" key="MergeDialog" timestamp="1596503779383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="110" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593766978363" />
-    <state width="1877" height="110" key="GridCell.Tab.1.center" timestamp="1593766978363">
+    <state x="184" y="92" key="MergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596503779383" />
+    <state x="669" y="236" key="MultipleFileMergeDialog" timestamp="1596503788341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="110" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593766978363" />
-    <state width="1877" height="110" key="GridCell.Tab.1.left" timestamp="1593766978363">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="110" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593766978363" />
-    <state width="1877" height="110" key="GridCell.Tab.1.right" timestamp="1593766978363">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="110" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593766978363" />
-    <state x="423" y="48" key="SettingsEditor" timestamp="1593568213945">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="669" y="236" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596503788341" />
+    <state x="2343" y="48" key="SettingsEditor" timestamp="1596765136829">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1593532625848" />
     <state x="423" y="48" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593568213945" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1593532841527">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="2343" y="48" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596765136829" />
+    <state x="387" y="144" key="Vcs.Push.Dialog.v2" timestamp="1596503580310">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1593532841527" />
-    <state x="636" y="253" width="786" height="534" key="find.popup" timestamp="1593596763018">
+    <state x="387" y="144" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596503580310" />
+    <state x="2012" y="92" width="1736" height="856" key="dock-window-1" timestamp="1597992368638">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597992368638" />
+    <state x="2012" y="92" width="1736" height="856" key="dock-window-2" timestamp="1597992368638">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597992368638" />
+    <state x="2012" y="92" width="1736" height="856" key="dock-window-3" timestamp="1597992773797">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="dock-window-3/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597992773797" />
+    <state x="2012" y="92" width="1736" height="856" key="dock-window-4" timestamp="1597992773797">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="dock-window-4/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597992773797" />
+    <state x="2826" y="352" width="826" height="534" key="find.popup" timestamp="1597999308182">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="253" width="786" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596527777976" />
+    <state x="2826" y="352" width="826" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597999308182" />
+    <state x="662" y="311" key="git4idea.merge.GitPullDialog" timestamp="1596503588348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="636" y="253" width="786" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593596763018" />
-    <state x="662" y="311" key="git4idea.merge.GitPullDialog" timestamp="1596503532405">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="662" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596503532405" />
+    <state x="662" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596503588348" />
     <state x="57" y="64" key="new project wizard" timestamp="1593531031428">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -292,6 +599,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594174057277" />
+    <state x="2472" y="179" key="scopes" timestamp="1597999464309">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="179" key="scopes/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597999464309" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596537648838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596537648838" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -318,12 +633,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/MaxInWindow.java</url>
-          <line>23</line>
+          <line>20</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/MaxInWindow.java</url>
-          <line>40</line>
+          <line>35</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -345,6 +660,91 @@
           <url>file://$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/jdk/concurrent/AQS/AbstractQueuedSynchronizer.java</url>
           <line>132</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Solution/Solution1.java</url>
+          <line>232</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Solution/Solution1.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Solution/Solution1.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Solution/Solution1.java</url>
+          <line>182</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Solution/Solution1.java</url>
+          <line>187</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/InitObject/Foo.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/InitObject/Foo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/InitObject/Bar.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/InitObject/Bar.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/InitObject/Bar.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/InitObject/Foo.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/InitObject/Foo.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/Test1.java</url>
+          <line>319</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_2/src/main/java/algorithm_practice/SwordOffer/old/d28_字符串的排列.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/BFS/BFSfisrt.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/BFS/Floyd.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/sort/ShellSort.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/swordPoint2Offer_1/src/main/java/code/offer/src/Chap6/MaxQueue.java</url>
@@ -369,6 +769,18 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/InitObject/Foo.java</url>
+          <line>7</line>
+          <properties field="i" class="InitObject.Foo" />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/swordPoint2Offer_3/src/main/java/InitObject/Bar.java</url>
+          <line>3</line>
+          <properties field="j" class="InitObject.Bar" />
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

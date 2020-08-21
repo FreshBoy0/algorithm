@@ -33,7 +33,6 @@ public class e31_连续子数组的最大和 {
         if (arr==null || arr.length<=0){
             return 0;
         }
-
         int cur = arr[0];
         int res = cur;
         for (int i = 1; i < arr.length; i++) {

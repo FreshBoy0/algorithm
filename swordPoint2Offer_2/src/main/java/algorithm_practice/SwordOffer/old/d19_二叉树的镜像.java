@@ -62,45 +62,45 @@ public class d19_二叉树的镜像 {
         //   7
         //  /
         // 9
-        BinaryTreeNode head2 = new BinaryTreeNode();
-        head2.value = 1;
-        head2.left = new BinaryTreeNode();
-        head2.left.value = 3;
-        head2.left.left = new BinaryTreeNode();
-        head2.left.left.value = 5;
-        head2.left.left.left = new BinaryTreeNode();
-        head2.left.left.left.value = 7;
-        head2.left.left.left.left = new BinaryTreeNode();
-        head2.left.left.left.left.value = 9;
-        System.out.println("\n");
-        SysOut.printBinaryTree(head2);
-        System.out.println();
-        mirrorRecursivelly(head2);
-        SysOut.printBinaryTree(head2);
-        // 0
-        //  \
-        //   2
-        //    \
-        //     4
-        //      \
-        //       6
-        //        \
-        //         8
-        BinaryTreeNode head3 = new BinaryTreeNode();
-        head3.value = 0;
-        head3.right = new BinaryTreeNode();
-        head3.right.value = 2;
-        head3.right.right = new BinaryTreeNode();
-        head3.right.right.value = 4;
-        head3.right.right.right = new BinaryTreeNode();
-        head3.right.right.right.value = 6;
-        head3.right.right.right.right = new BinaryTreeNode();
-        head3.right.right.right.right.value = 8;
-        System.out.println("\n");
-        SysOut.printBinaryTree(head3);
-        System.out.println();
-        mirrorRecursivelly(head3);
-        SysOut.printBinaryTree(head3);
+//        BinaryTreeNode head2 = new BinaryTreeNode();
+//        head2.value = 1;
+//        head2.left = new BinaryTreeNode();
+//        head2.left.value = 3;
+//        head2.left.left = new BinaryTreeNode();
+//        head2.left.left.value = 5;
+//        head2.left.left.left = new BinaryTreeNode();
+//        head2.left.left.left.value = 7;
+//        head2.left.left.left.left = new BinaryTreeNode();
+//        head2.left.left.left.left.value = 9;
+//        System.out.println("\n");
+//        SysOut.printBinaryTree(head2);
+//        System.out.println();
+//        mirrorRecursivelly(head2);
+//        SysOut.printBinaryTree(head2);
+//        // 0
+//        //  \
+//        //   2
+//        //    \
+//        //     4
+//        //      \
+//        //       6
+//        //        \
+//        //         8
+//        BinaryTreeNode head3 = new BinaryTreeNode();
+//        head3.value = 0;
+//        head3.right = new BinaryTreeNode();
+//        head3.right.value = 2;
+//        head3.right.right = new BinaryTreeNode();
+//        head3.right.right.value = 4;
+//        head3.right.right.right = new BinaryTreeNode();
+//        head3.right.right.right.value = 6;
+//        head3.right.right.right.right = new BinaryTreeNode();
+//        head3.right.right.right.right.value = 8;
+//        System.out.println("\n");
+//        SysOut.printBinaryTree(head3);
+//        System.out.println();
+//        mirrorRecursivelly(head3);
+//        SysOut.printBinaryTree(head3);
     }
 
 }

@@ -21,13 +21,15 @@ public class Employee extends Thread{
     @Override
     public void run() {
         try {
-            System.out.println(employeeName+ "开始准备");
+             System.out.println(employeeName+ "开始准备");
             Thread.sleep(time);
-            System.out.println(employeeName+" 准备完成");
+           System.out.println(employeeName+" 准备完成");
             countDownLatch.countDown();
         } catch (Exception e) {
             e.printStackTrace();
         }
+
+        String string =  "22";
 
     }
 
